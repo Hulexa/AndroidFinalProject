@@ -2,3 +2,5 @@
 ლოგინისთვის და რეგისტარიციისთვის გამოყენებულია firebase დატაბეიზი ასევე გათვალისწინებულია რეჯექსებიც.
 ![image](https://github.com/Hulexa/AndroidFinalProject/assets/95696338/f4847f2e-4a84-4a6d-a637-8db9b1dfdcf9)
 რაც შეეხება თვითონ კოდს გამოყენებულია ბაინდინგი რაც კრიტერუიმებში იყო მოთხოვნილი 
+![image](https://github.com/Hulexa/AndroidFinalProject/assets/95696338/e36c6a72-0677-4f13-9ddd-3c1648742c0b)
+
